@@ -1,0 +1,8 @@
+{
+  "name": "otus/test",
+  "description": "Test",
+  "version": "1.0",
+  "require": {
+    "php": ">=7.3"
+  }
+}
