@@ -2,8 +2,19 @@
   "name": "yurkaap/otus-test",
   "description": "Test",
   "version": "1.0",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "require": {
     "php": ">=7.0"
+  },
+  "authors": [
+    {
+      "name": "yurkaap",
+      "email": "yurban1717@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Test\\" : "public"
+    }
   }
 }
